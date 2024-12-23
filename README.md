@@ -1,3 +1,4 @@
+mac is a good boy 
 ## Setup instruction
 
 Install clang first.
